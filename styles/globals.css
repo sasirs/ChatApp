@@ -1,0 +1,21 @@
+.right {
+  background: rgb(72, 227, 215);
+  background: linear-gradient(
+    295deg,
+    rgba(72, 227, 215, 1) 0%,
+    rgba(0, 212, 255, 1) 100%
+  );
+  position: relative;
+}
+.cards {
+  margin: 8%;
+}
+.img {
+  min-height: 10vh;
+}
+/* .left {
+  
+} */
+.cards {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 5px rgba(0, 0, 0, 0.19);
+}
